@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToolBar Demo</string>
+    <string name="send_to">Share text via...</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="settings">
+        <item>Help</item>
+        <item>Quit</item>
+        <item>About</item>
+        <item>Refer and Earn</item>
+    </string-array>
+</resources>
